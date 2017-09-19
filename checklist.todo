@@ -9,11 +9,11 @@ https://gobyexample.com/
  ✔ Switch @done (17-09-20 00:54)
  ✔ Arrays @done (17-09-20 00:55)
  ✔ Slices @done (17-09-20 01:12)
- ☐ Maps
- ☐ Range
- ☐ Functions
- ☐ Multiple Return Values
- ☐ Variadic Functions
+ ✔ Maps @done (17-09-20 01:29)
+ ✔ Range @done (17-09-20 01:31)
+ ✔ Functions @done (17-09-20 01:37)
+ ✔ Multiple Return Values @done (17-09-20 01:41)
+ ✔ Variadic Functions @done (17-09-20 01:41)
  ☐ Closures
  ☐ Recursion
  ☐ Pointers

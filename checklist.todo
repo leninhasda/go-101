@@ -14,10 +14,10 @@ https://gobyexample.com/
  ✔ Functions @done (17-09-20 01:37)
  ✔ Multiple Return Values @done (17-09-20 01:41)
  ✔ Variadic Functions @done (17-09-20 01:41)
- ☐ Closures
- ☐ Recursion
- ☐ Pointers
- ☐ Structs
+ ✔ Closures @done (17-09-24 14:34)
+ ✔ Recursion @done (17-09-24 14:34)
+ ✔ Pointers @done (17-09-24 14:45)
+ ✔ Structs @done (17-09-24 16:45)
  ☐ Methods
  ☐ Interfaces
  ☐ Errors

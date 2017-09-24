@@ -18,9 +18,9 @@ https://gobyexample.com/
  ✔ Recursion @done (17-09-24 14:34)
  ✔ Pointers @done (17-09-24 14:45)
  ✔ Structs @done (17-09-24 16:45)
- ☐ Methods
- ☐ Interfaces
- ☐ Errors
+ ✔ Methods @done (17-09-24 16:51)
+ ✔ Interfaces @done (17-09-24 17:34)
+ ✔ Errors @done (17-09-24 17:45)
  ☐ Goroutines
  ☐ Channels
  ☐ Channel Buffering

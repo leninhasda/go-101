@@ -21,8 +21,8 @@ https://gobyexample.com/
  ✔ Methods @done (17-09-24 16:51)
  ✔ Interfaces @done (17-09-24 17:34)
  ✔ Errors @done (17-09-24 17:45)
- ☐ Goroutines
- ☐ Channels
+ ✔ Goroutines @done (17-09-25 08:42)
+ ✔ Channels @done (17-09-25 09:29)
  ☐ Channel Buffering
  ☐ Channel Synchronization
  ☐ Channel Directions

@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+    database:
+        image: postgres:alpine
+        ports:
+            - 54321:5432
+        environment:
+            - POSTGRES_DB=test
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=secret

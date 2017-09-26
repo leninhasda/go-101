@@ -27,7 +27,7 @@ https://gobyexample.com/
  ✔ Channel Synchronization @done(2017-09-26 13:02)
  ✔ Channel Directions @done(2017-09-26 13:02)
  ✔ Select @done(2017-09-26 13:02)
- ☐ Timeouts
+ ✔ Timeouts @done(2017-09-26 22:33)
  ☐ Non-Blocking Channel Operations
  ☐ Closing Channels
  ☐ Range over Channels

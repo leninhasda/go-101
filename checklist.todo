@@ -23,10 +23,10 @@ https://gobyexample.com/
  ✔ Errors @done (17-09-24 17:45)
  ✔ Goroutines @done (17-09-25 08:42)
  ✔ Channels @done (17-09-25 09:29)
- ☐ Channel Buffering
- ☐ Channel Synchronization
- ☐ Channel Directions
- ☐ Select
+ ✔ Channel Buffering @done(2017-09-26 13:02)
+ ✔ Channel Synchronization @done(2017-09-26 13:02)
+ ✔ Channel Directions @done(2017-09-26 13:02)
+ ✔ Select @done(2017-09-26 13:02)
  ☐ Timeouts
  ☐ Non-Blocking Channel Operations
  ☐ Closing Channels

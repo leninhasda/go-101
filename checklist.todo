@@ -28,8 +28,8 @@ https://gobyexample.com/
  ✔ Channel Directions @done(2017-09-26 13:02)
  ✔ Select @done(2017-09-26 13:02)
  ✔ Timeouts @done(2017-09-26 22:33)
- ☐ Non-Blocking Channel Operations
- ☐ Closing Channels
+ ✔ Non-Blocking Channel Operations @done(2017-09-27 00:47)
+ ✔ Closing Channels @done(2017-09-27 00:47)
  ☐ Range over Channels
  ☐ Timers
  ☐ Tickers

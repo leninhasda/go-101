@@ -28,10 +28,10 @@ https://gobyexample.com/
  ✔ Channel Directions @done(2017-09-26 13:02)
  ✔ Select @done(2017-09-26 13:02)
  ✔ Timeouts @done(2017-09-26 22:33)
- ☐ Non-Blocking Channel Operations
- ☐ Closing Channels
- ☐ Range over Channels
- ☐ Timers
+ ✔ Non-Blocking Channel Operations @done(2017-10-01 11:31)
+ ✔ Closing Channels @done(2017-10-01 11:31)
+ ✔ Range over Channels @done(2017-10-01 11:31)
+ ✔ Timers @done(2017-10-01 11:31)
  ☐ Tickers
  ☐ Worker Pools
  ☐ Rate Limiting

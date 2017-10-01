@@ -32,8 +32,8 @@ https://gobyexample.com/
  ✔ Closing Channels @done(2017-10-01 11:31)
  ✔ Range over Channels @done(2017-10-01 11:31)
  ✔ Timers @done(2017-10-01 11:31)
- ☐ Tickers
- ☐ Worker Pools
+ ✔ Tickers @done(2017-10-01 18:04)
+ ✔ Worker Pools @done(2017-10-01 18:04)
  ☐ Rate Limiting
  ☐ Atomic Counters
  ☐ Mutexes

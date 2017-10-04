@@ -34,27 +34,27 @@ https://gobyexample.com/
  ✔ Timers @done(2017-10-01 11:31)
  ✔ Tickers @done(2017-10-01 18:04)
  ✔ Worker Pools @done(2017-10-01 18:04)
- ☐ Rate Limiting
- ☐ Atomic Counters
- ☐ Mutexes
- ☐ Stateful Goroutines
- ☐ Sorting
- ☐ Sorting by Functions
- ☐ Panic
- ☐ Defer
- ☐ Collection Functions
- ☐ String Functions
- ☐ String Formatting
- ☐ Regular Expressions
- ☐ JSON
- ☐ Time
- ☐ Epoch
- ☐ Time Formatting / Parsing
- ☐ Random Numbers
- ☐ Number Parsing
- ☐ URL Parsing
- ☐ SHA1 Hashes
- ☐ Base64 Encoding
+ ✔ Rate Limiting @done(2017-10-04 18:44)
+ ✔ Atomic Counters @done(2017-10-04 18:44)
+ ✔ Mutexes @done(2017-10-04 18:44)
+ ✔ Stateful Goroutines @done(2017-10-04 18:44)
+ ✔ Sorting @done(2017-10-04 18:44)
+ ✔ Sorting by Functions @done(2017-10-04 18:44)
+ ✔ Panic @done(2017-10-04 18:44)
+ ✔ Defer @done(2017-10-04 18:44)
+ ✔ Collection Functions @done(2017-10-04 18:44)
+ ✔ String Functions @done(2017-10-04 18:44)
+ ✔ String Formatting @done(2017-10-04 18:44)
+ ✔ Regular Expressions @done(2017-10-04 18:44)
+ ✔ JSON @done(2017-10-04 18:44)
+ ✔ Time @done(2017-10-04 18:44)
+ ✔ Epoch @done(2017-10-04 18:44)
+ ✔ Time Formatting / Parsing @done(2017-10-04 18:44)
+ ✔ Random Numbers @done(2017-10-04 18:44)
+ ✔ Number Parsing @done(2017-10-04 18:44)
+ ✔ URL Parsing @done(2017-10-04 18:44)
+ ✔ SHA1 Hashes @done(2017-10-04 18:44)
+ ✔ Base64 Encoding @done(2017-10-04 18:44)
  ☐ Reading Files
  ☐ Writing Files
  ☐ Line Filters

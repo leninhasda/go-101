@@ -48,4 +48,11 @@ func main() {
 
 	// p(now.Format(format("Y-m-d")))
 	p(format("Y-m-d H:i:s", now))
+
+	secs := now.Unix()
+	nanos := now.UnixNano()
+	millis := nanos / 1000000
+	p(secs)
+	p(nanos)
+	p(millis)
 }

@@ -19,7 +19,10 @@ var pln = fmt.Println
 var pf = fmt.Printf
 
 func main() {
-	file := "/tmp/defer.txt"
+	// d1 := []byte("hello\ngo\n")
+	// err := ioutil.WriteFile("/tmp/dat1", d1, 0644)
+	// file := "/tmp/defer.txt"
+	file := "/tmp/dat1"
 
 	dat, err := ioutil.ReadFile(file)
 	check(err)
@@ -55,4 +58,8 @@ func main() {
 	b4, err := r4.Peek(3)
 	check(err)
 	pf("3 bytes: %s\n", string(b4))
+
+	f2, err := os.Create("/tmp/dat2")
+	check(err)
+	defer f2.Close()
 }

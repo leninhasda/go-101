@@ -55,13 +55,13 @@ https://gobyexample.com/
  ✔ URL Parsing @done(2017-10-04 18:44)
  ✔ SHA1 Hashes @done(2017-10-04 18:44)
  ✔ Base64 Encoding @done(2017-10-04 18:44)
- ☐ Reading Files
- ☐ Writing Files
- ☐ Line Filters
- ☐ Command-Line Arguments
- ☐ Command-Line Flags
- ☐ Environment Variables
- ☐ Spawning Processes
- ☐ Exec'ing Processes
- ☐ Signals
- ☐ Exit
+ ✔ Reading Files @done(2017-10-05 15:12)
+ ✔ Writing Files @done(2017-10-05 15:12)
+ ✔ Line Filters @done(2017-10-05 15:12)
+ ✔ Command-Line Arguments @done(2017-10-05 15:12)
+ ✔ Command-Line Flags @done(2017-10-05 15:12)
+ ✔ Environment Variables @done(2017-10-05 15:12)
+ ✔ Spawning Processes @done(2017-10-05 15:12)
+ ✔ Exec'ing Processes @done(2017-10-05 15:12)
+ ✔ Signals @done(2017-10-05 15:12)
+ ✔ Exit @done(2017-10-05 15:12)

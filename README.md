@@ -6,7 +6,7 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 
 ### Tutorials I am following
 
-- [ ] [Go By Example](https://gobyexample.com)
+- [x] [Go By Example](https://gobyexample.com)
 
 **Personal Checklist**    
 [checklist](checklist.todo)

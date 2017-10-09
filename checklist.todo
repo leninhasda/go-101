@@ -28,45 +28,6 @@ https://gobyexample.com/
  ✔ Channel Directions @done(2017-09-26 13:02)
  ✔ Select @done(2017-09-26 13:02)
  ✔ Timeouts @done(2017-09-26 22:33)
-<<<<<<< HEAD
- ✔ Non-Blocking Channel Operations @done(2017-09-27 00:47)
- ✔ Closing Channels @done(2017-09-27 00:47)
- ☐ Range over Channels
- ☐ Timers
- ☐ Tickers
- ☐ Worker Pools
- ☐ Rate Limiting
- ☐ Atomic Counters
- ☐ Mutexes
- ☐ Stateful Goroutines
- ☐ Sorting
- ☐ Sorting by Functions
- ☐ Panic
- ☐ Defer
- ☐ Collection Functions
- ☐ String Functions
- ☐ String Formatting
- ☐ Regular Expressions
- ☐ JSON
- ☐ Time
- ☐ Epoch
- ☐ Time Formatting / Parsing
- ☐ Random Numbers
- ☐ Number Parsing
- ☐ URL Parsing
- ☐ SHA1 Hashes
- ☐ Base64 Encoding
- ☐ Reading Files
- ☐ Writing Files
- ☐ Line Filters
- ☐ Command-Line Arguments
- ☐ Command-Line Flags
- ☐ Environment Variables
- ☐ Spawning Processes
- ☐ Exec'ing Processes
- ☐ Signals
- ☐ Exit
-=======
  ✔ Non-Blocking Channel Operations @done(2017-10-01 11:31)
  ✔ Closing Channels @done(2017-10-01 11:31)
  ✔ Range over Channels @done(2017-10-01 11:31)
@@ -104,4 +65,3 @@ https://gobyexample.com/
  ✔ Exec'ing Processes @done(2017-10-05 15:12)
  ✔ Signals @done(2017-10-05 15:12)
  ✔ Exit @done(2017-10-05 15:12)
->>>>>>> dc5f0d87b3507f92b3da44f925d668c82f04f4ea

@@ -95,9 +95,9 @@ Frequently Asked Questions (FAQ):
     ☐ Why does Go perform badly on benchmark X? @created(17-10-17 23:45)
 
   Changes from C:
-    ☐ Why is the syntax so different from C? @created(17-10-17 23:45)
-    ☐ Why are declarations backwards? @created(17-10-17 23:45)
-    ☐ Why is there no pointer arithmetic? @created(17-10-17 23:45)
-    ☐ Why are ++ and -- statements and not expressions? And why postfix, not prefix? @created(17-10-17 23:45)
-    ☐ Why are there braces but no semicolons? And why can't I put the opening brace on the next line? @created(17-10-17 23:45)
-    ☐ Why do garbage collection? Won't it be too expensive? @created(17-10-17 23:45)
+    ✔ Why is the syntax so different from C? @created(17-10-17 23:45) @done (17-10-17 23:57)
+    ✔ Why are declarations backwards? @created(17-10-17 23:45) @done (17-10-17 23:57)
+    ✔ Why is there no pointer arithmetic? @created(17-10-17 23:45) @done (17-10-17 23:57)
+    ✔ Why are ++ and -- statements and not expressions? And why postfix, not prefix? @created(17-10-17 23:45) @done (17-10-17 23:57)
+    ✔ Why are there braces but no semicolons? And why can't I put the opening brace on the next line? @created(17-10-17 23:45) @done (17-10-17 23:57)
+    ✔ Why do garbage collection? Won't it be too expensive? @created(17-10-17 23:45) @done (17-10-17 23:57)

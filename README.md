@@ -6,7 +6,9 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 
 ### Tutorials I am following
 
-- [x] [Go By Example](https://gobyexample.com)
+- [x] [Go By Example - online](https://gobyexample.com)
+- [ ] [Go in Action - book](https://www.manning.com/books/go-in-)
 
-**Personal Checklist**    
-[checklist](checklist.todo)
+**Personal Checklist**
+- [checklist of gobyexample](checklist.todo)
+- [checklist of go faq](go-faq.todo)

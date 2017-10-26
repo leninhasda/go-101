@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-    database:
+    postgres:
         image: postgres:alpine
         ports:
             - 54321:5432
@@ -9,3 +9,8 @@ services:
             - POSTGRES_DB=test
             - POSTGRES_USER=postgres
             - POSTGRES_PASSWORD=secret
+
+    mongo:
+        image: mongo:latest
+        ports:
+            - 27017:27017

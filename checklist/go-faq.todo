@@ -59,25 +59,25 @@ Frequently Asked Questions (FAQ):
     ✔ How should I manage package versions using "go get"? @created(17-10-17 23:43) @done(2017-11-13 08:46) @project(Frequently Asked Questions (FAQ) / Writing Code)
 
   Pointers and Allocation:
-    ☐ When are function parameters passed by value? @created(17-10-17 23:44)
-    ☐ When should I use a pointer to an interface? @created(17-10-17 23:44)
-    ☐ Should I define methods on values or pointers? @created(17-10-17 23:44)
-    ☐ What's the difference between new and make? @created(17-10-17 23:44)
-    ☐ What is the size of an int on a 64 bit machine? @created(17-10-17 23:44)
-    ☐ How do I know whether a variable is allocated on the heap or the stack? @created(17-10-17 23:44)
-    ☐ Why does my Go process use so much virtual memory? @created(17-10-17 23:44)
+    ✔ When are function parameters passed by value? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ When should I use a pointer to an interface? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ Should I define methods on values or pointers? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ What's the difference between new and make? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ What is the size of an int on a 64 bit machine? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ How do I know whether a variable is allocated on the heap or the stack? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ Why does my Go process use so much virtual memory? @created(17-10-17 23:44) @done (17-12-04 11:59)
 
   Concurrency:
-    ☐ What operations are atomic? What about mutexes? @created(17-10-17 23:44)
-    ☐ Why doesn't my multi-goroutine program use multiple CPUs? @created(17-10-17 23:44)
-    ☐ Why does using GOMAXPROCS > 1 sometimes make my program slower? @created(17-10-17 23:44)
+    ✔ What operations are atomic? What about mutexes? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ Why doesn't my multi-goroutine program use multiple CPUs? @created(17-10-17 23:44) @done (17-12-04 11:59)
+    ✔ Why does using GOMAXPROCS > 1 sometimes make my program slower? @created(17-10-17 23:44) @done (17-12-04 11:59)
 
   Functions and Methods:
     ☐ Why do T and *T have different method sets? @created(17-10-17 23:44)
     ☐ What happens with closures running as goroutines? @created(17-10-17 23:44)
 
   Control flow:
-    ☐ Does Go have the ?: operator? @created(17-10-17 23:44)
+    ✔ Does Go have the ?: operator? @created(17-10-17 23:44) @done (17-12-04 14:42)
 
   Packages and Testing:
     ☐ How do I create a multifile package? @created(17-10-17 23:44)

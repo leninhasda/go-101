@@ -8,7 +8,8 @@ import (
 	"github.com/leninhasda/go-101/concurrency-pattern/runner"
 )
 
-const timeout = 3 * time.Second
+// const timeout = 7 * time.Second // pass
+const timeout = 3 * time.Second // timeout
 
 func main() {
 	log.Println("Starting work.")
@@ -34,6 +35,7 @@ func main() {
 func createTask() func(int) {
 	return func(id int) {
 		log.Printf("Process - Task #%d.", id)
+		time.Sleep(time.Duration(id) * time.Second)
 		time.Sleep(time.Duration(id) * time.Second)
 	}
 }

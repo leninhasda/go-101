@@ -7,8 +7,11 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 ### Tutorials I am following
 
 - [x] [Go By Example - online](https://gobyexample.com)
-- [ ] [Go in Action - book](https://www.manning.com/books/go-in-)
+- [x] [Go in Action - book](https://www.manning.com/books/go-in-action)
+- [ ] [Building Web Apps with GO](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
+- [ ] [Golang 101 Hacks](https://nanxiao.gitbooks.io/golang-101-hacks/)
 
 **Personal Checklist**
 - [checklist of gobyexample](checklist/gobyexample.todo)
 - [checklist of go faq](checklist/go-faq.todo)
+- [Videos](checklist/videos.todo)

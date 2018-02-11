@@ -8,10 +8,14 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 
 - [x] [Go By Example - online](https://gobyexample.com)
 - [x] [Go in Action - book](https://www.manning.com/books/go-in-action)
-- [ ] [Building Web Apps with GO](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
-- [ ] [Golang 101 Hacks](https://nanxiao.gitbooks.io/golang-101-hacks/)
+- [ ] [The Go Developer's Notebook - book](https://leanpub.com/GoNotebook/)
+- [ ] [Mastering Concurrency in Go - book](https://www.packtpub.com/application-development/mastering-concurrency-go)
+- [ ] [Building Web Apps with GO - book](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
+- [ ] [Golang 101 Hacks - online](https://nanxiao.gitbooks.io/golang-101-hacks/)
+- [ ] [Go Web Examples - online](https://gowebexamples.com)
 
 **Personal Checklist**
-- [checklist of gobyexample](checklist/gobyexample.todo)
-- [checklist of go faq](checklist/go-faq.todo)
-- [Videos](checklist/videos.todo)
+- [ ] [checklist of gobyexample](checklist/gobyexample.todo)
+- [ ] [checklist of go faq](checklist/go-faq.todo)
+- [ ] [Source code](checklist/source-code.todo)
+- [ ] [Videos](checklist/videos.todo)

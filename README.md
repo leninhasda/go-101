@@ -8,7 +8,7 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 
 - [x] [Go By Example - online](https://gobyexample.com)
 - [x] [Go in Action - book](https://www.manning.com/books/go-in-action)
-- [ ] [The Go Developer's Notebook - book](https://leanpub.com/GoNotebook/)
+- [x] [The Go Developer's Notebook - book](https://leanpub.com/GoNotebook/)
 - [ ] [Mastering Concurrency in Go - book](https://www.packtpub.com/application-development/mastering-concurrency-go)
 - [ ] [Building Web Apps with GO - book](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
 - [ ] [Golang 101 Hacks - online](https://nanxiao.gitbooks.io/golang-101-hacks/)

@@ -15,7 +15,7 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 - [ ] [Go Web Examples - online](https://gowebexamples.com)
 
 **Personal Checklist**
-- [ ] [checklist of gobyexample](checklist/gobyexample.todo)
+- [x] [checklist of gobyexample](checklist/gobyexample.todo)
 - [ ] [checklist of go faq](checklist/go-faq.todo)
 - [ ] [Source code](checklist/source-code.todo)
 - [ ] [Videos](checklist/videos.todo)

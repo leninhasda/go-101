@@ -1,5 +1,11 @@
 package main
 
+import (
+	"reflect"
+
+	"github.com/davecgh/go-spew/spew"
+)
+
 type Person struct {
 	Name   string
 	Age    int
@@ -30,19 +36,26 @@ func main() {
 }
 
 func Decode(input interface{}, output interface{}) error {
-	// inref, _ := input.(map[string]interface{})
-	// outref := reflect.ValueOf(&output).Elem()
+	inref := reflect.ValueOf(input)
+	mk := inref.MapKeys()
+	// n := mk[0] //.String()
+	// name := reflect.Value(n)
+	// spew.Dump(inref.MapIndex(name).Interface())
+	spew.Dump(mk)
+	outref := reflect.ValueOf(output) //.Elem()
+	spew.Dump(outref)
 	// fmt.Println(reflect.ValueOf(reflect.ValueOf(&output).Elem().(Person)).String())
 	// outref := reflect.TypeOf(&output).Elem()
-	// typeOf := outref.Type()
+	typeOf := outref.Type()
 	// fmt.Println("type:", outref.Kind())
-	// for i := 0; i < outref.NumField(); i++ {
-	// 	key := typeOf.Field(i).Name
-	//
-	// 	// switch outref.Field(i).Kind() {
-	// 	// case reflect.Int:
-	// 	outref.Field(i).Set(reflect.ValueOf(inref[key]))
-	// 	// }
-	// }
+	for i := 0; i < outref.Elem().NumField(); i++ {
+		key := typeOf.Field(i).Name
+		spew.Dump(key)
+		//
+		// 	// switch outref.Field(i).Kind() {
+		// 	// case reflect.Int:
+		// 	outref.Field(i).Set(reflect.ValueOf(inref[key]))
+		// 	// }
+	}
 	return nil
 }

@@ -13,6 +13,7 @@ Recently just out of curiosity ... ok not out of curiosity, but because of my co
 - [ ] [Building Web Apps with GO - book](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
 - [ ] [Golang 101 Hacks - online](https://nanxiao.gitbooks.io/golang-101-hacks/)
 - [ ] [Go Web Examples - online](https://gowebexamples.com)
+- [ ] [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 **Personal Checklist**
 - [x] [checklist of gobyexample](checklist/gobyexample.todo)
